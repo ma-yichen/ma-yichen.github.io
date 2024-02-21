@@ -1,0 +1,110 @@
+I"È<h1 id="team">Team</h1>
+
+<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+
+<!--- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
+
+<h2 id="pi">PI</h2>
+
+<div class="row">
+  <p><img src="http://localhost:4000/images/teampic/Yichen_Ma.JPG" class="img-responsive" width="18%" style="float: left" /></p>
+  <h4>Yichen Ma</h4>
+  <p><i>Ph.D. Candidate at Georgia Institute of Technology</i><br /></p>
+
+  <p><a href="mailto:yma447@gatech.edu" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> 
+   <a href="https://scholar.google.com/citations?user=JYq65kUAAAAJ&amp;hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a></p>
+
+  <p><a href="https://github.com/ethan-pickering" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> 
+   <a href="https://www.researchgate.net/profile/Yichen-Ma-9" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a></p>
+  <ul style="overflow: hidden">
+
+  <li> (2024-2029) Ph.D. ISyE, Georgia Tech </li>
+  <li> (2021-2024) B.S. ISyE, Georgia Tech </li>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+
+  </ul>
+</div>
+
+<h2 id="current-students-and-postdocs">Current Students and Postdocs</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Example student name</h4>
+    <p><i>Postdoc, started Oct 2040<br /></i></p>
+
+    <p><a href="https://website.com" target="_blank"><i class="fa fa-home fa-2x"></i></a> 
+  <a href="mailto:exampleemail@gmail.com" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a></p>
+
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Postdoc with <a href="w">XYZ</a>, Harvard University </li>
+  <li> Ph.D. with <a href="w">XYZ</a>, X University </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>This could be you !</h4>
+    <p><i>See <a href="www">openings</a> for more info<br /></i></p>
+
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="alumni">Alumni</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Example Alumni Name</h4>
+    <p><i>In the lab 2015 - 2018, now at X <br /> Role: Fine mechanical engineer associated with the FMD working in our group</i></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="former-msbs-students-visitors">Former M.S./B.S Students, Visitors</h2>
+<div class="row">
+  <div class="col-sm-6 clearfix">
+
+    <p>Example Student, Spring 2040</p>
+
+  </div>
+</div>
+
+<h2 id="administrative-support">Administrative Support</h2>
+<p><a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.</p>
+
+:ET

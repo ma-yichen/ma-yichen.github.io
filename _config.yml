@@ -1,38 +1,40 @@
 # Site settings
 title: Yichen Ma
 email: yma447@gatech.edu
-description: Academic webpage of Yichen Ma
+description: Academic webpage of Ethan Pickering
 baseurl: ""
 url: ""
+affiliation: ISyE at Georgia Tech
 
-# Google analytics ID: Uncomment and your own, if you like
-# google_analytics: XX
-# google_analytics_4: XXX
-# google_tag_manager: XXX
-
-# Footer info
-affiliation: >
-    Yichen Ma<br/>
-    Ph.D. Candidate<br/>
-    Georgia Institute of Technology
-
+# Location info. (shown in footer)
 location: >
-  Georgia Institute of Technology<br/>
+  Georgia Institute of Technology <br/>
+  Atlanta, GA<br/>
 
+# Contact info. (shown in footer)
 contact: >
-    <a href="yma447@gatech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Yichen via email</a> <br/>
-    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    Contact Yichen via email: <a href="mailto:yma447@gatech.edu" target="_blank">yma447@gatech.edu</a> <br/>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
+#  - name: talks
+#  - name: service
   - name: research
+# - name: software
+# - name: team
   - name: teaching
+
+# Do you want to group your publications by year? {true/false}
+group_pub_by_year: true
 
 include:
   - .htaccess
   - _pages
+
+sass:
+  sass_dir: _sass
 
 # Conversion
 markdown: kramdown
@@ -52,40 +54,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
-
-plugins: ['jekyll/scholar']
-
-scholar:
-
-  last_name: Doe
-  first_name: [John]
-
-  style: citesty
-  locale: en
-
-  source: /assets/
-  bibliography: ref.bib
-  bibliography_template: bibtemplate
-  sort_by: year, month
-  order: descending
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-
-  bibliography_list_attributes:
-    reversed: "reversed"
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - update_boostrap.sh
-  - switch_theme.sh
-  - tags
-  - Rakefile

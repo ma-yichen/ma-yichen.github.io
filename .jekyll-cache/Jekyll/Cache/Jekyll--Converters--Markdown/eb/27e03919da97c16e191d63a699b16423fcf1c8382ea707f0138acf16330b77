@@ -1,0 +1,100 @@
+I"`<h2 id="about">About</h2>
+
+<div class="row">
+  <p><img src="http://localhost:4000/images/teampic/Ethan_smile_close.JPG" class="img-responsive" width="30%" style="float: left" /></p>
+  <h3>Dr. Ethan Pickering</h3>
+  <p><i style="font-size:20px">AI-Assisted Genetic Design Team Lead at Bayer, Lecturer at MIT</i><br /></p>
+
+  <p><a href="mailto:pickering@mit.edu" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> 
+   <a href="https://scholar.google.com/citations?user=q3KI3-0AAAAJ&amp;hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> 
+   <a href="https://github.com/ethan-pickering/cv/blob/master/Ethan_Pickering_Curriculum_Vitae.pdf" target="_blank"><i class="ai ai-cv-square ai-3x"></i></a> 
+   <a href="https://github.com/ethan-pickering" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> 
+   <a href="https://www.researchgate.net/profile/Ethan_Pickering" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a></p>
+  <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li> (2022-  ) AI-Assisted Genetic Design Team Lead, Bayer Crop Sciences </li>
+  <li> (2023-  ) Lecturer in Mechanical Engineering, MIT </li>
+  <li> (2021-2022) Postdoctoral Scholar in Mechanical Engineering, MIT (with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a>) </li>
+  <li> (2016-2021) Ph.D. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>) </li>
+  <li> (2018) M.S. in Mechanical Engineering, Caltech (with <a href="https://colonius.caltech.edu" target="_blank">Tim Colonius</a>) </li>
+  <li> (2016) M.S. Mechanical Engineering, Case Western Reserve University (with <a href="https://engineering.dartmouth.edu/people/faculty/alexis-abramson" target="_blank">Alexis Abramson</a> (now at Dartmouth) and <a href="https://engineering.case.edu/centers/sdle/roger-french" target="_blank">Roger French</a>) </li>
+  <li> (2015) B.S. Mechanical and Aerospace Engineering, Case Western Reserve University </li>
+  
+
+  </ul>
+</div>
+
+<h2 id="sketch">Sketch</h2>
+
+<p>Dr. Ethan Pickering investigates chaotic systems of engineering interest that exhibit rare and extreme events. He is currently a postdoctoral associate in Mechanical Engineering at the Massachusetts Institute of Technology, working with Themis Sapsis and collaborating with numerous institutions that cover state of the art computational, experimental, and theoretical abilities.</p>
+
+<h2 id="awards">Awards</h2>
+
+<ul>
+  <li>
+    <p>Thomas J. R. Hughes Fellow, U.S. National Committee for Theoretical and Applied Mechanics (2021)</p>
+  </li>
+  <li>
+    <p>MIT Inaugural Postdoctoral Symposium Finalist (2021)</p>
+  </li>
+  <li>
+    <p>International Conference of Theoretical and Applied Mechanics Travel Grant (2020+1)</p>
+  </li>
+  <li>
+    <p>National Defense Science and Engineering Graduate Fellowship, Award Winner (2017)</p>
+  </li>
+  <li>
+    <p>National Science Foundation Graduate Research Fellowship Program, Award Winner (Declined) (2017)</p>
+  </li>
+  <li>
+    <p>National Science Foundation Graduate Research Fellowship Program, Honorable Mention (2016)</p>
+  </li>
+  <li>
+    <p><a href="https://thedaily.case.edu/recent-alumnus-awarded-sigma-chi-fraternitys-international-balfour-award/" target="_blank">International Balfour Award of Sigma Chi</a> (2016)</p>
+  </li>
+  <li>
+    <p>Clapp Memorial Graduate Scholarship (2016)</p>
+  </li>
+  <li>
+    <p>Michelson-Morley STEM Scholarship (2011)</p>
+  </li>
+</ul>
+
+<h2 id="grants">Grants</h2>
+
+<ul>
+  <li>
+    <p>ONR Grant No. N00014-16-1-2445 (with Tim Colonius): Next generation jet noise models for complex-geometry nozzles</p>
+  </li>
+  <li>
+    <p><a href="https://arpa-e.energy.gov/?q=slick-sheet-project/virtual-building-energy-audits" target="_blank">ARPA-E Open 2015</a> (with Alexis Abramson), Virtual building energy audits</p>
+  </li>
+</ul>
+
+<h2 id="collaborators">Collaborators</h2>
+
+<ul>
+  <li><a href="http://colonius.caltech.edu/" target="_blank">Professor Tim Colonius (Department of Mechanical and Civil Engineering, Caltech)</a></li>
+  <li><a href="https://www.imperial.ac.uk/people/g.rigas" target="_blank">Professor Georgios Rigas (Department of Aeronautics, Imperial College London)</a></li>
+  <li><a href="http://flowphysics.ucsd.edu/" target="_blank">Professor Oliver Schmidt (Department of Mechanical and Aerospace Engineering, UC San Diego)</a></li>
+  <li><a href="http://atowne.com/" target="_blank">Professor Aaron Towne (Department of Mechanical Engineering, University of Michigan)</a></li>
+  <li><a href="https://scholar.google.fr/citations?user=X7P6FUEAAAAJ&amp;hl=fr" target="_blank"> Dr. Peter Jordan (Institut Pprime, CNRS, Universit ́e de Poitiers )</a></li>
+  <li><a href="http://denissipp.free.fr/" target="_blank"> Dr. Denis Sipp (Research Director at ONERA)</a></li>
+  <li><a href="http://www.ita.br/~cavalieri" target="_blank"> Professor Andre Cavalieri (Engenharia Aeronáutica, Instituto Tecnológico de Aeronáutica)</a></li>
+  <li><a href="https://www.cascadetechnologies.com/" target="_blank"> Dr. Guillaume Brès (Director of Operations and Senior Research Scientist, CASCADE Technologies)</a></li>
+</ul>
+
+:ET

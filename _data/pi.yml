@@ -1,22 +1,13 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
-  # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
-  # education4: 
-  # education5: 
-  # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
-  # education3short: 
-  # education4short: 
-  # education5short: 
-  # education6short: 
+- name: Yichen Ma
+  photo: Yichen_Ma.JPG
+  info: Ph.D. Candidate at Georgia Institute of Technology
+  email: yma447@gatech.edu
+  github: https://github.com/ethan-pickering
+  researchgate: https://www.researchgate.net/profile/Yichen-Ma-9
+  scholar: https://scholar.google.com/citations?user=JYq65kUAAAAJ&hl=en
+  cv: 
+  number_educ: 7
+  education1: (2024-2029) Ph.D. ISyE, Georgia Tech 
+  education2: (2021-2024) B.S. ISyE, Georgia Tech
+  education1short: (2016) Ph.D. ISyE, Gatech 
+  education2short: (2015) B.S. ISyE, Gatech

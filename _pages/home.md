@@ -5,8 +5,10 @@ sitemap: false
 permalink: /
 ---
 
-### About me
+<style>
+code {padding: 6px 8px; font-size: 90%;}
+</style>
 
-I am a Ph.D. Candidate majoring in Industrial and System Engineering at the Georgia Institute of Technology. My advisor is Professor Jianjun (Jan) Shi.
+# Welcome!
 
 
