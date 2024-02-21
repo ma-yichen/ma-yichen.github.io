@@ -163,14 +163,14 @@ I hold B.S. degrees in Mechanical Engineering and Engineering Mathematics from t
 
 </div>
 
-<div class="well">
+<!-- <div class="well">
 <h4>Upcoming Events</h4>
   
   <b>January 13-18, 2022</b>
     <p>PAG 30<br/>
     <i>San Diego, CA USA</i></p>
   
-</div>
+</div> -->
 
 <!-- <div class="well"> -->
 <!-- <h4>Funding</h4> -->
