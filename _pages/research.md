@@ -14,7 +14,6 @@ Ensemble- and volume-averaging are phase-averaged methods for disperse, bubbly f
   <ul style="overflow: hidden">
   </ul>
 </div>
- 
 
 # Publications
 
@@ -148,4 +147,3 @@ Ensemble- and volume-averaging are phase-averaged methods for disperse, bubbly f
 {% endfor %}
 
 {% endfor %}
-
