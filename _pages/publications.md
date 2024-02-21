@@ -5,6 +5,17 @@ sitemap: false
 permalink: /publications/
 ---
 
+# Research
+
+<div class="rowl1">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/droplets_in_water.jpeg" class="img-responsive" width="20%" style="float: left; border-radius:10px" />
+  <h4>Bubble and droplet dynamics</h4>
+Ensemble- and volume-averaging are phase-averaged methods for disperse, bubbly flows. While built upon similar assumptions, it is challenging to assess their relative merits. Volume-averaging is an intrinsically deterministic model, for which bubbles are represented in a Lagrangian framework as advected particles, each sampled from a distribution of equilibrium bubble sizes. The dynamic coupling to the liquid phase is modeled through local volume averaging. Ensemble-phase averaging is stochastic, and uses ensemble-averaging to derive mixture-averaged equations and the field equations are evolved in an Eulerian reference frame for the associated bubble properties, each representing bins of an underlying equilibrium distribution. In both cases the equations are closed by solving Rayleigh-Plesset-like equations for the bubble dynamics as forced by the local or mixture-averaged pressure, respectively. Computationally, there are complex tradeoffs between these two approaches, especially for modern, parallel architectures. We assess their relative complexity and cost via high-resolution simulations.
+  <ul style="overflow: hidden">
+  </ul>
+</div>
+ 
+
 # Publications
 
 {% assign yeartest = true %}

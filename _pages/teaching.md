@@ -14,6 +14,4 @@ permalink: /teaching/
     * ISyE 3770, Statistics & Applications -- 2022
     * ISyE 3025, Engineering Economy -- 2022
 
-* <a href="https://www.isye.gatech.edu/news/discovoring-tomorrows-innovators-operations-research-adventure" target="_blank">DiscovOR</a> (2023)
-    * Provide high school students with an overview idea of what Operations Research is and familiarize them with key concepts, such as randomness in real-world decision-making, queuing systems, and simulation. By doing so, the program seeks to spark students' imagination and instill a passion for STEM fields, paving the way for the future generation of problem solvers.
 
