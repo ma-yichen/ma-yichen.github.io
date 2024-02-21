@@ -1,47 +1,43 @@
 # Site settings
-title: Yichen Ma
-email: yma447@gatech.edu
-description: Academic webpage of Yichen Ma
+title: Richard Feynman
+email: richard@university.edu
+description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
 url: ""
-affiliation: I am part of the <a href="http://meche.mit.edu/" target="_blank">Mechanical Engineering Department</a> at the Massachusetts Institute of Technology
 
-# Google analytics ID
-google_analytics: UA-176412042-1
+# Google analytics ID: Uncomment and your own, if you like
+# google_analytics: XX
+# google_analytics_4: XXX
+# google_tag_manager: XXX
 
-# Location info. (shown in footer)
+# Footer info
+affiliation: >
+    Richard Feynman<br/>
+    Professor of Physics<br/>
+    California Institute of Technology
+
 location: >
-  Coordinates: <br/>
-  Building 5 <br/>
-  Massachusetts Institute of Technology <br/>
-  77 Massachusetts Ave<br/>
-  Cambridge, MA 02139<br/>
+  California Institute of Technology<br/>
+  1200 E California Blvd<br/>
+  Pasadena, CA 91125
 
-# Contact info. (shown in footer)
 contact: >
-    Contact Ethan via email: <a href="mailto:pickering@mit.edu" target="_blank">pickering@mit.edu</a> <br/>
-    <br/><a href="/aboutwebsite.html">Use this webpage as a template for your own!</a>
+    <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+    <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
   - name: publications
   - name: talks
-  - name: service
-# - name: research
-# - name: software
-# - name: team
-# - name: teaching
-
-# Do you want to group your publications by year? {true/false}
-group_pub_by_year: true
+  - name: research
+  - name: software
+  - name: team
+  - name: teaching
 
 include:
   - .htaccess
   - _pages
-
-sass:
-  sass_dir: _sass
 
 # Conversion
 markdown: kramdown
@@ -61,3 +57,40 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
+plugins: ['jekyll/scholar']
+
+scholar:
+
+  last_name: Doe
+  first_name: [John]
+
+  style: citesty
+  locale: en
+
+  source: /assets/
+  bibliography: ref.bib
+  bibliography_template: bibtemplate
+  sort_by: year, month
+  order: descending
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - update_boostrap.sh
+  - switch_theme.sh
+  - tags
+  - Rakefile
