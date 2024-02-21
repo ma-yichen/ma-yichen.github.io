@@ -79,7 +79,7 @@ permalink: /about/
 
 ## Sketch
 
-Yichen Ma is a Ph.D. Candidate majoring in Industrial and System Engineering at Georgia Institute of Technology advised by Professor Jianjun (Jan) Shi. My current research interest is in System Informatics and Control. 
+Yichen Ma is a Ph.D. Candidate majoring in Industrial and System Engineering at Georgia Institute of Technology advised by Professor Jianjun (Jan) Shi. My current research interest is in System Informatics and Control.
 
 {% if site.data.awards %}
 ## Awards
@@ -91,3 +91,13 @@ Yichen Ma is a Ph.D. Candidate majoring in Industrial and System Engineering at 
 {% endif %}
 
 {% if site.data.grants %}
+## Grants
+
+{% for grant in site.data.grants %}
+* {{ grant.name }}
+{% endfor %}
+
+{% endif %}
+
+
+
