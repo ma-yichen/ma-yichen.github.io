@@ -1,11 +1,4 @@
----
-title: "Talks"
-layout: gridlay
-sitemap: false
-permalink: /talks/
----
-
-<style>
+I"<style>
 .btn{
     margin-bottom:5px;
     padding-top:1px;
@@ -22,4 +15,4 @@ permalink: /talks/
 }
 </style>
 
-
+:ET
