@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am currently pursuing a Ph.D. degree in the `H. Milton Stewart School of Industrial and Systems Engineering` at the Georgia Institute of Technology, advised by Professor [Jianjun Shi](https://sites.gatech.edu/jianjun-shi/). I received my B.S. degree in Industrial Engineering also from Georgia Tech. My research interests include 3D machine learning, time-series foundation models, and data analytics for complex engineering systems.
+Hi there,
+
+I am a Ph.D. student in the [H. Milton Stewart School of Industrial and Systems Engineering](https://www.isye.gatech.edu/) at the Georgia Institute of Technology, where I am advised by Professor [Jianjun Shi](https://sites.gatech.edu/jianjun-shi/). My concentration is in System Informatics and Control, with a minor in Machine Learning. I also received my B.S. degree in Industrial Engineering also from Georgia Tech and am concurrently pursuing an M.S. in Computational Science and Engineering.
+
+My research focuses on machine learning and data-driven modeling for complex engineering systems, with interests including 3D machine learning, time-series foundation models, additive manufacturing, and process-aware analytics. More broadly, I develop AI methods for representation learning, prediction, and quality monitoring in advanced manufacturing and industrial systems.
