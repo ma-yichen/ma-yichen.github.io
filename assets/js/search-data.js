@@ -441,6 +441,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-engineering-economy",
+          title: 'Engineering Economy',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-3025/";
             },},{id: "teachings-methods-for-quality-improvement",
           title: 'Methods for Quality Improvement',
           description: "",
@@ -451,6 +456,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3044/";
+            },},{id: "teachings-methods-for-quality-improvement",
+          title: 'Methods for Quality Improvement',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-3770/";
             },},{id: "teachings-decision-and-data-analytics",
           title: 'Decision and Data Analytics',
           description: "",
