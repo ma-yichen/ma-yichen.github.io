@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Yichen_Ma1.JPG
+  image: Yichen_Ma1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>428 ISyE Main Building</p>
