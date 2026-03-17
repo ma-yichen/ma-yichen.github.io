@@ -67,14 +67,12 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Awards:
+      - title: Novelis Graduate Scholar Award
+        date: 2026
+        awarder: The Novelis Innovation Hub at Georgia Tech
+        url: https://research.gatech.edu/2025-2026-novelis-scholars
+        summary: The program recognizes top graduate researchers working in areas such as sustainable design, circular economy systems, advanced materials discovery, and AI-driven manufacturing and supply chain innovation. As scholars, they will receive an $8,000 award and engage with scientists and engineers at Novelis through research presentations, and collaboration opportunities.
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -104,7 +102,7 @@ cv:
     Interests:
       - name: Bouldering
         icon: fa-solid fa-hashtag
-        keywords: "Bouldering, Central Rock Gym"
+        keywords: "Central Rock Gym, V4-V6"
 
     # Certificates:
     #   - name: Machine Learning
