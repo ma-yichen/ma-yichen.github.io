@@ -9,7 +9,7 @@ profile:
   image: Yichen_Ma1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>428 ISyE Main Building</p>
+    <p>ISyE Main Building #428</p>
     <p>755 Ferst Dr NW</p>
     <p>Atlanta, GA 30332</p>
 
