@@ -451,7 +451,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/CV_Yichen_Ma.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -465,7 +465,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=JYq65kUAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
