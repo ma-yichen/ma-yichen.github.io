@@ -441,11 +441,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-methods-for-quality-improvement",
+          title: 'Methods for Quality Improvement',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-3039/";
+            },},{id: "teachings-simulation-analysis-and-design",
+          title: 'Simulation Analysis and Design',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-3044/";
             },},{id: "teachings-decision-and-data-analytics",
           title: 'Decision and Data Analytics',
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-4034/";
+            },},{id: "teachings-advanced-stochastic-systems",
+          title: 'Advanced Stochastic Systems',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-4232/";
             },},{id: "teachings-nonparametric-data-analysis",
           title: 'Nonparametric Data Analysis',
           description: "",
