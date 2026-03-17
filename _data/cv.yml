@@ -26,6 +26,17 @@ cv:
       - institution: Georgia Institute of Technology
         location: Atlanta, GA
         # url: https://www.uzh.ch/
+        area: Industrial Engineering
+        studyType: Ph.D.
+        start_date: 2024
+        end_date: 2029 (Expected)
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
+      - institution: Georgia Institute of Technology
+        location: Atlanta, GA
+        # url: https://www.uzh.ch/
         area: Computational Science and Engineering
         studyType: M.S.
         start_date: 2024
@@ -39,6 +50,7 @@ cv:
       - institution: Georgia Institute of Technology
         location: Atlanta, GA
         area: Industrial Engineering
+        minor: Computer Science and Economics
         studyType: B.S.
         start_date: 2021
         end_date: 2024
