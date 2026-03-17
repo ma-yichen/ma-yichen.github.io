@@ -441,11 +441,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "teachings-decision-and-data-analytics",
+          title: 'Decision and Data Analytics',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-4034/";
             },},{id: "teachings-nonparametric-data-analysis",
           title: 'Nonparametric Data Analysis',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/non-param-data-analysis/";
+              window.location.href = "/teachings/ISyE-6404/";
+            },},{id: "teachings-informatics-in-production-and-service-system",
+          title: 'Informatics in Production and Service System',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/ISyE-7204/";
             },},{
         id: 'social-cv',
         title: 'CV',
