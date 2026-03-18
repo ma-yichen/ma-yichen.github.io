@@ -5,6 +5,9 @@
 
 @use "sass:color";
 
+// Content width
+$max-content-width: 72rem !default;
+
 // Colors
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
@@ -19,7 +22,7 @@ $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 // $purple-color: #b509ac !default;
-$purple-color: #2698ba !default;
+$purple-color: #003057 !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
