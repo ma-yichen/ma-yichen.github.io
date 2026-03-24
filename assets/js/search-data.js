@@ -393,9 +393,9 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "instructors-informatics-in-production-and-service-system",
-          title: 'Informatics in Production and Service System',
-          description: "ISyE 7204",
+      },{id: "instructors-3d-machine-learning",
+          title: '3D Machine Learning',
+          description: "ISyE 7204 Guest Lectures",
           section: "Instructors",handler: () => {
               window.location.href = "/instructors/ISyE-7204/";
             },},{id: "news-a-simple-inline-announcement",
