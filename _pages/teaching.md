@@ -14,7 +14,7 @@ calendar: false
 
 <hr style="border: 0; border-top: 1px solid #e5e5e5; margin: 0.5rem 0 1.5rem 0;">
 
-<div style="margin-top: 1.5rem;"></div>
+<div style="margin-top: 4.5rem;"></div>
 
 ## instructor
 
