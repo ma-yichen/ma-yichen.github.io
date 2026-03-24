@@ -159,6 +159,8 @@ collections:
     output: true
   teachings:
     output: true
+  instructors:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

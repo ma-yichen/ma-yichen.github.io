@@ -1,6 +1,8 @@
-{% if site.teachings %}
+{% assign courses = include.courses | default: site.teachings %}
+
+{% if courses and courses != empty %}
   <div class="courses">
-    {% assign courses_by_year = site.teachings | sort: 'year' | reverse | group_by: 'year' %}
+    {% assign courses_by_year = courses | sort: 'year' | reverse | group_by: 'year' %}
 
     {% for year_group in courses_by_year %}
       <h2 class="year">{{ year_group.name }}</h2>

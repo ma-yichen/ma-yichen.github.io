@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching assistant
 # description: Course materials, schedules, and resources for classes taught.
 nav: true
 nav_order: 5
@@ -12,4 +12,10 @@ calendar: false
 
 <!-- {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %} -->
 
-{% include courses.liquid %}
+## Teaching Assistant
+
+{% include courses.liquid courses=site.teachings %}
+
+## Instructor
+
+{% include courses.liquid courses=site.instructors %}
