@@ -443,42 +443,42 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-engineering-economy",
           title: 'Engineering Economy',
-          description: "",
+          description: "ISyE 3025",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3025/";
             },},{id: "teachings-methods-for-quality-improvement",
           title: 'Methods for Quality Improvement',
-          description: "",
+          description: "ISyE 3039",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3039/";
             },},{id: "teachings-simulation-analysis-and-design",
           title: 'Simulation Analysis and Design',
-          description: "",
+          description: "ISyE 3044",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3044/";
             },},{id: "teachings-methods-for-quality-improvement",
           title: 'Methods for Quality Improvement',
-          description: "",
+          description: "ISyE 3770",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3770/";
             },},{id: "teachings-decision-and-data-analytics",
           title: 'Decision and Data Analytics',
-          description: "",
+          description: "ISyE 4034",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-4034/";
             },},{id: "teachings-advanced-stochastic-systems",
           title: 'Advanced Stochastic Systems',
-          description: "",
+          description: "ISyE 4232",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-4232/";
             },},{id: "teachings-nonparametric-data-analysis",
           title: 'Nonparametric Data Analysis',
-          description: "",
+          description: "ISyE 6404",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-6404/";
             },},{id: "teachings-informatics-in-production-and-service-system",
           title: 'Informatics in Production and Service System',
-          description: "",
+          description: "ISyE 7204",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-7204/";
             },},{
