@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
+        },{id: "nav-teaching-assistant",
+          title: "teaching assistant",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -393,7 +393,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
+      },{id: "instructors-informatics-in-production-and-service-system",
+          title: 'Informatics in Production and Service System',
+          description: "ISyE 7204",
+          section: "Instructors",handler: () => {
+              window.location.href = "/instructors/ISyE-7204/";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "projects-project-1",
