@@ -461,8 +461,8 @@ ninja.data = [{
           description: "ISyE 3044",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3044/";
-            },},{id: "teachings-methods-for-quality-improvement",
-          title: 'Methods for Quality Improvement',
+            },},{id: "teachings-statistics-and-applications",
+          title: 'Statistics and Applications',
           description: "ISyE 3770",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/ISyE-3770/";
