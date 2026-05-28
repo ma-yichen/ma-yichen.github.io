@@ -11,7 +11,7 @@
   abstract = {The increasing adoption of advanced three-dimensional (3D) scanning technologies has made large-scale point clouds containing millions of 3D measurement points standard in applications like manufacturing. However, processing immense amounts of 3D data imposes significant computational loads, often resulting in discarded critical information and suboptimal outcomes for downstream tasks. This paper introduces Point-ITR, a task-oriented sampling method tailored for regression tasks, which selectively retains the most informative points within large-scale point clouds. Specifically, we propose a gradient-based importance sampling framework for intra-sample selection (selecting points within a 3D point cloud) and a feature-based weighting scheme for inter-sample selection (selecting among different 3D point cloud sub-samples). Additionally, we introduce an iterative random sampling (ItrRS) module for preprocessing and an Offset Residual Block that utilizes a reference design model to learn structural features and accelerate both training and testing, which allows a simple fully connected network to process large-scale point clouds. Our approach improves prediction accuracy across downstream tasks while ensuring that the rich details captured are fully utilized for interpretation, offering a more effective and efficient solution. We validate our methodology through simulation studies and real-world case applications in additive manufacturing, demonstrating its robustness and practical applicability.},
   preview = {Point-ITR.png},
   abbr = {IEEE-TASE},
-  selected = {true}
+  selected = {false}
 }
 
 @article{Ma16032026,
@@ -30,4 +30,23 @@
   preview = {Privacy_Attack.png},
   abbr = {IISE Trans},
   selected = {false}
+}
+
+@article{10.1115/1.4071851,
+    author = {Ma, Yichen and Biehler, Michael and Lim, Chiehyeon and Shi, Jianjun},
+    title = {ResCloud: Predictive Modeling of Temporal 3D Point Cloud Profiles for In-Process Qualification in Additive Manufacturing},
+    journal = {Journal of Manufacturing Science and Engineering},
+    volume = {148},
+    number = {7},
+    pages = {071007},
+    year = {2026},
+    month = {05},
+    abstract = {Quality assurance remains a critical challenge in additive manufacturing (AM), as process-induced variability often leads to dimensional inaccuracies and defective parts. The three-dimensional (3D) shape of a build serves as a highly effective indicator of print quality, as it directly reflects geometric deviations. However, full 3D shape assessment during the AM process is typically infeasible due to incomplete observations and limitations of in situ monitoring. This article proposes ResCloud, a reference-based framework that enables real-time prediction of the final 3D geometry during the printing process. ResCloud models deviations between observed point clouds and the computer-aided design (CAD) reference as residual signature vectors, which encode fine-grained deviations along surface normal vectors in a structured form. By segmenting the reference model according to the build direction so that the structured residual representation follows the observation order of the manufacturing process, and by employing a residual masked autoencoder (rMAE), ResCloud learns to infer unprinted regions from partial observations with known reference features. This approach achieves substantially lower reconstruction error compared to conventional shape-completion and similarity-retrieval methods, offering a practical and effective solution for proactive quality control in AM and reducing reliance on postprocess inspections.},
+    issn = {1087-1357},
+    doi = {10.1115/1.4071851},
+    url = {https://doi.org/10.1115/1.4071851},
+    preview = {ResCloud Demo ASME.png},
+    abbr = {JMSE},
+    selected = {true}
+    eprint = {https://asmedigitalcollection.asme.org/manufacturingscience/article-pdf/148/7/071007/7611549/manu-26-1065.pdf},
 }
